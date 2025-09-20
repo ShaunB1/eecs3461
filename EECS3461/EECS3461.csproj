@@ -16,4 +16,14 @@
       <_ContentIncludedByDefault Remove="Views\_ViewStart.cshtml" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Core\" />
+      <Folder Include="Modules\BudgetPlanner\" />
+      <Folder Include="Modules\Calendar\Models\" />
+      <Folder Include="Modules\Calendar\Services\" />
+      <Folder Include="Modules\Flashcards\" />
+      <Folder Include="Modules\GpaCalculator\" />
+      <Folder Include="Modules\Journal\" />
+    </ItemGroup>
+
 </Project>

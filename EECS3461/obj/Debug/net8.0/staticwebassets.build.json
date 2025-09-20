@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "81/lUvGExfWfcQNsegFND5hIzzW+NsLNXdt9Rfx6qxU=",
+  "Hash": "N+wGLnCHtfq7MY4UyotZF+ESDP9n9rwXsgEU00+y45A=",
   "Source": "EECS3461",
   "BasePath": "_content/EECS3461",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\assets\\index-CAl1KfkQ.js",
+      "Identity": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\assets\\index-B8yduxcJ.css",
       "SourceId": "EECS3461",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\",
       "BasePath": "_content/EECS3461",
-      "RelativePath": "assets/index-CAl1KfkQ.js",
+      "RelativePath": "assets/index-B8yduxcJ.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-CAl1KfkQ.js"
+      "OriginalItemSpec": "wwwroot\\assets\\index-B8yduxcJ.css"
     },
     {
-      "Identity": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\assets\\index-D8b4DHJx.css",
+      "Identity": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\assets\\index-DYSexFdN.js",
       "SourceId": "EECS3461",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\",
       "BasePath": "_content/EECS3461",
-      "RelativePath": "assets/index-D8b4DHJx.css",
+      "RelativePath": "assets/index-DYSexFdN.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,26 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-D8b4DHJx.css"
-    },
-    {
-      "Identity": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\assets\\react-CHdo91hT.svg",
-      "SourceId": "EECS3461",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\",
-      "BasePath": "_content/EECS3461",
-      "RelativePath": "assets/react-CHdo91hT.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\react-CHdo91hT.svg"
+      "OriginalItemSpec": "wwwroot\\assets\\index-DYSexFdN.js"
     },
     {
       "Identity": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\index.html",

@@ -7,5 +7,14 @@ export default defineConfig({
     build: {
         outDir: "../wwwroot",
         emptyOutDir: true,
+    },
+    server: {
+        proxy: {
+            "/api": {
+                target: "http://localhost:7248",
+                changeOrigin: true,
+                secure: false,
+            }
+        }
     }
 })
