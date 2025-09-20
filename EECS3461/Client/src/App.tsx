@@ -3,6 +3,7 @@ import {BrowserRouter, Route, Routes} from "react-router-dom";
 import Calendar from "./modules/Calendar/Calendar.tsx";
 import Home from "./modules/Home/Home.tsx";
 import Sidepanel from "./modules/Core/Components/Sidepanel/Sidepanel.tsx";
+import Flashcards from "./modules/Flashcards/Pages/Flashcards.tsx";
 
 function App() {
     return (
@@ -22,6 +23,7 @@ function App() {
                     <Routes>
                         <Route path="/" element={<Home />} />
                         <Route path="/calendar" element={<Calendar />} />
+                        <Route path="/flashcards" element={<Flashcards />} />
                     </Routes>
                 </div>
             </div>
