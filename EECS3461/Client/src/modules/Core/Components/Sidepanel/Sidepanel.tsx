@@ -16,6 +16,7 @@ const Sidepanel = () => {
             >
                 <Button onClick={() => navigate("/")}>Home</Button>
                 <Button onClick={() => navigate("/calendar")}>Calendar</Button>
+                <Button onClick={() => navigate("/flashcards")}>Flashcards</Button>
             </div>
         </>
     );

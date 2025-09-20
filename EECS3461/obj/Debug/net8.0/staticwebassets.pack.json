@@ -1,35 +1,35 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\assets\\index-B8yduxcJ.css",
-      "PackagePath": "staticwebassets\\assets\\index-B8yduxcJ.css"
+      "Id": "/Users/neuvi/Documents/GitHub/eecs3461/EECS3461/wwwroot/assets/index-B8yduxcJ.css",
+      "PackagePath": "staticwebassets/assets/index-B8yduxcJ.css"
     },
     {
-      "Id": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\assets\\index-DYSexFdN.js",
-      "PackagePath": "staticwebassets\\assets\\index-DYSexFdN.js"
+      "Id": "/Users/neuvi/Documents/GitHub/eecs3461/EECS3461/wwwroot/assets/index-CiA6sgJw.js",
+      "PackagePath": "staticwebassets/assets/index-CiA6sgJw.js"
     },
     {
-      "Id": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "/Users/neuvi/Documents/GitHub/eecs3461/EECS3461/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "C:\\Users\\shaun\\Desktop\\Projects\\EECS3461\\EECS3461\\wwwroot\\vite.svg",
-      "PackagePath": "staticwebassets\\vite.svg"
+      "Id": "/Users/neuvi/Documents/GitHub/eecs3461/EECS3461/wwwroot/vite.svg",
+      "PackagePath": "staticwebassets/vite.svg"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EECS3461.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EECS3461.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EECS3461.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EECS3461.props",
       "PackagePath": "build\\EECS3461.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EECS3461.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EECS3461.props",
       "PackagePath": "buildMultiTargeting\\EECS3461.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EECS3461.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EECS3461.props",
       "PackagePath": "buildTransitive\\EECS3461.props"
     }
   ],
