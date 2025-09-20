@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EECS3461.props" />
+</Project>
